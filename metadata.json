@@ -1,0 +1,6 @@
+{
+  "name": "Conecta Futuro — Universo Conecta",
+  "description": "Plataforma educacional gratuita e gamificada de tecnologia, programação e Inteligência Artificial para jovens exploradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
